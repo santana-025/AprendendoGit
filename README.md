@@ -41,7 +41,7 @@ git checkout -b nome = Cria uma ramificação ou uma branch
 
 git branch = lista/motra em qual ramificação voce esta *
 	  master
-	* somar
+	* somar 
 
 (HEAD -> somar, master)
 
