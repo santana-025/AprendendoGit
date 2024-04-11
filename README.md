@@ -50,9 +50,9 @@ git merge + nome da branch que quer juntar
 
 git remote add origin https://github.com/santana-025/AprendendoGit.git
 
-git branch -M main
+git branch -M main = Renomeia a mestre para main
 
-git push -u origin main 
+git push -u origin main = empura para o servidor 
 
 git push
 
